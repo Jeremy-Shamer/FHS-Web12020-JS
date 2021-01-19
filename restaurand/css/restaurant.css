@@ -76,10 +76,11 @@
               padding-left: 2vh;
             }
             footer {
-                background:black;
-                color:white;
+                background:lightgray;
+                color:black;
                 padding:2vh;
                 min-height:15vh;
+                text-align: center;
             }
             .container {
                 min-height:75vh;
